@@ -1,0 +1,6 @@
+{
+  "name": "Rojgaar - Modern Job Portal",
+  "description": "A modern and professional job portal connecting talented job seekers and leading employers across Nepal, India, and South Asia with smart filters, applicant tracking, and recruiter dashboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
